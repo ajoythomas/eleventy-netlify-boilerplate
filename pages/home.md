@@ -6,10 +6,11 @@ permalink: /
 navtitle: Home
 ---
 # 🎉 Happy Birthday Sinuhe! 🎉
-Finally you are ready for those big boy pants! 
+## Finally you are ready for those big boy pants! 
+
+Sinuheg.com is now yours! you didn't ask for it, but we gave it you anyway just like all the responsbilites at work. With big boy pants comes big boy responsibility. 
 
 
-https://www.sinuheg.com/ is now yours. Don't go all crazy with new app ideas, you still need to turn in those TPS reports.  
 <!--
 This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
 

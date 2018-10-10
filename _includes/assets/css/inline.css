@@ -47,6 +47,10 @@ main,
 footer {
 	padding: 1em;
 }
+footer{
+	position: absolute;
+    bottom: 0;
+}
 
 main {
 	padding-bottom: 2em;
