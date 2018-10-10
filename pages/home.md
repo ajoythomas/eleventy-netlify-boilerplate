@@ -5,10 +5,11 @@ date: 2016-01-01T00:00:00.000Z
 permalink: /
 navtitle: Home
 ---
-# 🎉 Happy Birthday Sinuhe!  🎉
-Time for Those Big Boy 👖
+# 🎉 Happy Birthday Sinuhe! 🎉
+Finally you are ready for those big boy pants! 
 
-This lil piece of internet real-estate is now your. 
+
+https://www.sinuheg.com/ is now yours. Don't go all crazy with new app ideas, you still need to turn in those TPS reports.  
 <!--
 This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
 
