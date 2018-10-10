@@ -1,14 +1,14 @@
 ---
 layout: layouts/home.njk
-title: Home
+title: Happy Birthday Sinuhe
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 navtitle: Home
-tags:
-  - nav
 ---
-# 🎉 Happy Birthday Sinuhe! Time for Big Boy 👖
+# 🎉 Happy Birthday Sinuhe!  🎉
+Time for Those Big Boy 👖
 
+This lil piece of internet real-estate is now your. 
 <!--
 This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
 
