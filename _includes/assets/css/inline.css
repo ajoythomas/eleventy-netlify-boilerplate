@@ -123,6 +123,10 @@ main > section > article > * {
 	margin-top: 0;
 	margin-bottom: .5em;
 }
+h1{
+	text-align: center;
+}
+
 
 /* Tags */
 a[rel="tag"],
