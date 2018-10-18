@@ -6,9 +6,9 @@ permalink: /
 navtitle: Home
 ---
 # 🎉 Happy Birthday Sinuhe! 🎉
-## Finally you are ready for those big boy pants! 
+## Finally you are ready for those big boy pants!
 
-Sinuheg.com is now yours! you didn't ask for it, but we gave it you anyway just like all the responsbilites at work. With big boy pants comes big boy responsibility. 
+Sinuheg.com is now yours! you didn't ask for it, but we gave it you anyway just like all the responsibilities at work. With big boy pants comes big boy responsibility. 
 
 
 <!--
