@@ -8,9 +8,9 @@ navtitle: Home
 # 🎉 Happy Birthday Sinuhe! 🎉
 ## Finally you are ready for those big boy pants!
 
-Sinuheg.com is now yours! you didn't ask for it, but we gave it you anyway just like all the responsibilities at work. Well, it is yours for at least a year after that for a low price of $9.99 you can continue to keep it.
+Sinuheg.com is now yours! you didn't ask for it, but we gave it you anyway just like all the responsibilities at work. Well, it is yours for at least a year, after that for a low price of $9.99 you can continue to keep it.
 
-And always remember, with big boy pants comes big boy responsibilities! 
+And always remember, with big boy pants comes big boy responsibilities!
 
 
 <!--
