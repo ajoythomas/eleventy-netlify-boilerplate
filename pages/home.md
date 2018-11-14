@@ -11,7 +11,7 @@ navtitle: Home
 
 Sinuheg.com is now officially yours! You didn't ask for it, but we gave it to you anyway ... just like all the responsibilities at work. 
 
-Well, it is now yours for at least a year, after that for a low price of $9.99/year you can continue to keep it. Hope you tinker with the code here, or start a blog about how great your coworkers are ... you know? basically if you get that done by EOD, that would be great. 
+Well, it is now yours for at least a year, after that for a low price of $9.99/year you can continue to keep it. Hope you tinker with the code, or start a blog about how great your coworkers are ... we'll assign an asana ticket to you, just so that you don't forget. 
 
 And always remember, with big boy pants comes big boy responsibilities! Thanks for all that you do.
 
