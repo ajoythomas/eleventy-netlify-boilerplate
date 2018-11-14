@@ -6,11 +6,14 @@ permalink: /
 navtitle: Home
 ---
 # 🎉 Happy Birthday Sinuhe! 🎉
-### Those big boy product management pants fit you well!
+### You're lookin' sharp in those big boy product management pants. Bravo!
 
-Sinuheg.com is now yours! you didn't ask for it, but we gave it you anyway just like all the responsibilities at work. Well, it is yours for at least a year, after that for a low price of $9.99/year you can continue to keep it.
+Sinuheg.com is now officially yours! You didn't ask for it, but we gave it you anyway ... just like all the responsibilities at work. Well, it is yours for at least a year, after that for a low price of $9.99/year you can continue to keep it.
 
-And always remember, with big boy pants comes big boy responsibilities!
+And always remember, with big boy pants comes big boy responsibilities! Thanks for all that you do. 
+
+Love, 
+Tech Team
 
 
 <!--
