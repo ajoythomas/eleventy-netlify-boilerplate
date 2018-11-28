@@ -13,7 +13,7 @@ Sinuheg.com is now officially yours! You didn't ask for it, but we gave it to yo
 
 Well, it is now yours for at least a year, after that for a low price of $9.99/year you can continue to keep it. Hope you tinker with the code, or start a blog about how great your coworkers are ... we'll assign an asana ticket to you, just so that you don't forget. 
 
-And always remember, with big boy pants comes big boy responsibilities! Thanks for all that you do 👍.
+And always remember, with big boy pants comes big boy responsibilities! Thanks for all that you do 👍
 
 
 <!--
